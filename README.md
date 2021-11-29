@@ -42,6 +42,16 @@ sno|Name
 3|Krishna
 
 
+Using emojis
+
+
+😕
+😨
+😠
+
+chandra sai is a  🥊
+
+
 
    
 
